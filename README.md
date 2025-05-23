@@ -37,6 +37,7 @@ This system uses a **singly linked list** as its fundamental data structure for 
 - Dynamically grows with patient entries
 - No fixed size limitations like arrays
 - Simple and memory-efficient for linear operations
+- Time Complexity linkedList is best in some system --> O(n)
 
 ---
 
