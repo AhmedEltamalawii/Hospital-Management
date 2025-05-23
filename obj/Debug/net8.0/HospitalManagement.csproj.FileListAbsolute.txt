@@ -1,0 +1,14 @@
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\HospitalManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\HospitalManagement.AssemblyInfoInputs.cache
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\HospitalManagement.AssemblyInfo.cs
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\HospitalManagement.csproj.CoreCompileInputs.cache
+C:\Users\Sprint\source\repos\HospitalManagement\bin\Debug\net8.0\HospitalManagement.exe
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\HospitalManagement.dll
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\refint\HospitalManagement.dll
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\HospitalManagement.pdb
+C:\Users\Sprint\source\repos\HospitalManagement\bin\Debug\net8.0\HospitalManagement.deps.json
+C:\Users\Sprint\source\repos\HospitalManagement\bin\Debug\net8.0\HospitalManagement.runtimeconfig.json
+C:\Users\Sprint\source\repos\HospitalManagement\bin\Debug\net8.0\HospitalManagement.dll
+C:\Users\Sprint\source\repos\HospitalManagement\bin\Debug\net8.0\HospitalManagement.pdb
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\HospitalManagement.genruntimeconfig.cache
+C:\Users\Sprint\source\repos\HospitalManagement\obj\Debug\net8.0\ref\HospitalManagement.dll
